@@ -8,3 +8,5 @@ Click on the status of a door to switch between open and closed, this will also 
 Currently, the application will poll the database once every three seconds, a future goal is to implement a realtime event listener which responds to changes in the database. Unfortunately I couldn't work out the functionality of the SQL Dependency class.
 
 There is an executable in the binary files of the application.
+
+At this moment, design is not a central goal of the project. I would be interested to experiement with some graphical front-end in the future.
